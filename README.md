@@ -1,31 +1,38 @@
 <div align="center">
 
 # Charan Teja Yandrapati
-**Tech Lead • Full Stack Web Application Developer**[cite: 1]
+**Tech Lead • Full Stack Web Application Developer**
 
-Building resilient, high-performance web applications with React, TypeScript, and the TanStack ecosystem[cite: 1].
+Building scalable web applications, modern UI architectures, and high-performance digital products.
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Website-charanteja.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.charanteja.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-charanteja.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.charanteja.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charanteja-yandrapati/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/charan379)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/charanteja_yandrapati/)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:charantejay1@outlook.com)
 
 </div>
 
 ---
 
-### 🚀 Highlights
+### 👨‍💻 About Me
 
-- 🏢 **Tech Lead at Cognizant:** Leading frontend architecture for enterprise AI automation systems integrated with ServiceNow[cite: 1].
-- 🛠️ **Open Source:** Created [`typeorm-query-utils`](https://www.charanteja.com/work/typeorm-query-utils), an NPM utility for dynamic filtering and sorting in TypeORM[cite: 2].
-- 🔐 **Security & Vaults:** Engineered [`Safe Keep JS`](https://www.charanteja.com/work/safekeep-is), a client-side encrypted credentials and sensitive data manager[cite: 1].
-- 📜 **Certifications:** GitHub Foundations • Microsoft Certified Azure Fundamentals • MongoDB SI Associate[cite: 2].
+I partner with startups, product teams, and businesses to turn complex ideas into robust, production-ready web applications. With deep expertise across frontend architecture and full-stack engineering, I specialize in shipping responsive, performant, and maintainable software that scales smoothly.
 
 ---
 
-### 🧰 Technologies & Tools
+### 🤝 How I Can Help
+
+- **Full-Stack Product Engineering:** Delivering end-to-end web applications and MVPs built for speed, security, and scalability using React, TypeScript, and Node.js.
+- **Frontend Architecture & UX Performance:** Designing high-throughput data grids, state management layers, and snappy interfaces powered by the TanStack ecosystem.
+- **API Engineering & Integrations:** Architecting clean RESTful APIs, database structures (PostgreSQL, MongoDB), and enterprise third-party workflows.
+- **Technical Consulting & Code Audits:** Modernizing web architectures, establishing automated testing standards, and optimizing frontend performance.
+
+---
+
+### 🧰 Core Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -41,6 +48,10 @@ Building resilient, high-performance web applications with React, TypeScript, an
 
 ---
 
-<div align="center">
-  <sub>Detailed case studies and system demos are available at <a href="https://www.charanteja.com/">charanteja.com</a>[cite: 1]</sub>
-</div>
+### 📬 Let's Connect
+
+Have an upcoming project, need technical consulting, or looking to scale your engineering team?
+
+- 🌐 **Portfolio & Case Studies:** [charanteja.com](https://www.charanteja.com/)
+- 💼 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/charanteja-yandrapati/)
+- 📧 **Direct Inquiries:** [charantejay1@outlook.com](mailto:charantejay1@outlook.com)
